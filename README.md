@@ -48,7 +48,7 @@ Pertanyaan mencakup topik-topik dasar dari:
 
 ## Lisensi
 
-MIT License © [Nama Kamu]
+MIT License © GUNGRATE
 
 ---
 
