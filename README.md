@@ -52,11 +52,6 @@ MIT License © [Nama Kamu]
 
 ---
 
-## Screenshot
-
-*(Tambahkan screenshot quiz di sini jika perlu)*
-
----
 
 Jika ada pertanyaan atau ingin kontribusi, silakan buka issue atau pull request.
 
